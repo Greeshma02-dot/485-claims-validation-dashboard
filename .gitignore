@@ -1,0 +1,6 @@
+*
+!.gitignore
+!app.py
+!requirements.txt
+!deploy_data/
+!deploy_data/claims_dashboard_public_safe.parquet
